@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/Users/kaydon/Desktop/TP1/.metadata/.plugins/org.eclipse.jdt.core
-3525260285.index
-1865797976.index
-1328996958.index
